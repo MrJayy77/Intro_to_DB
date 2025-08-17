@@ -1,4 +1,6 @@
 -- task_3.sql
--- List all tables in the given database
+-- Select the database
+USE alx_book_store;
 
+-- List all tables in the selected database
 SHOW TABLES;
